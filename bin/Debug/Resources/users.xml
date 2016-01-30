@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <username>1</username>
+    <password>1</password>
+    <watchlist>
+      <movie>
+        <genre>Drama</genre>
+        <actor>Stig Henrik Hoff</actor>
+        <actor>Jan Gunnar R  ise</actor>
+        <actor>Anne Ryg</actor>
+        <actor>Ane Dahl Torp</actor>
+        <actor>Kristoffer Joner</actor>
+        <length>123 min</length>
+        <year>2006</year>
+        <rating>8</rating>
+        <director>Hans Petter Moland</director>
+        <title>Gymnaslærer Pedersen</title>
+      </movie>
+      <movie>
+        <genre>Comedy</genre>
+        <genre>Animation</genre>
+        <genre>Family</genre>
+        <actor>Frank Welker</actor>
+        <actor>Constance Shulman</actor>
+        <actor>Chris Phillips</actor>
+        <actor>Fred Newman</actor>
+        <actor>Thomas McHugh</actor>
+        <length>77 min</length>
+        <year>1999</year>
+        <rating>8</rating>
+        <director>Maurice Joyce</director>
+        <title>Doug's 1st Movie</title>
+      </movie>
+    </watchlist>
+  </user>
+</users>

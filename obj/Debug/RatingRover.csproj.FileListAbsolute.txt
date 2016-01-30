@@ -1,0 +1,86 @@
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\obj\Debug\RatingRover.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\obj\Debug\RatingRover.CreateAccountForm.resources
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\obj\Debug\RatingRover.LoginForm.resources
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\obj\Debug\RatingRover.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\obj\Debug\RatingRover.SearchForm.resources
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\obj\Debug\RatingRover.ManageCollectionForm.resources
+c:\users\ryan\documents\visual studio 2015\Projects\RatingRover\WindowsFormsApplication1\obj\Debug\RatingRover.WatchListForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\obj\Debug\RatingRover.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\obj\Debug\RatingRover.CreateAccountForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\obj\Debug\RatingRover.LoginForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\obj\Debug\RatingRover.ManageCollectionForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\obj\Debug\RatingRover.SearchForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\obj\Debug\RatingRover.WatchListForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\obj\Debug\RatingRover.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\WindowsFormApplication1\bin\Debug\Resources\movies.xml
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\bin\Debug\Resources\users.xml
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\bin\Debug\Resources\movies.xml
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\bin\Debug\RatingRover.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\bin\Debug\RatingRover.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\bin\Debug\RatingRover.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.Presentation.AdvancedSearch.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.CreateAccountForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.Presentation.EditMovieForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.LoginForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.ManageCollectionForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.MovieForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.SearchForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.Presentation.VerifyDelete.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.WatchListForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\RatingRover\RatingRover\obj\Debug\RatingRover.csprojResolveAssemblyReference.cache
+C:\Users\Steph\git\RatingRover\RatingRover\bin\Debug\RatingRover.exe.config
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.exe
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.pdb
+C:\Users\Steph\git\RatingRover\RatingRover\bin\Debug\Resources\users.xml
+C:\Users\Steph\git\RatingRover\RatingRover\bin\Debug\Resources\movies.xml
+C:\Users\Steph\git\RatingRover\RatingRover\bin\Debug\RatingRover.exe
+C:\Users\Steph\git\RatingRover\RatingRover\bin\Debug\RatingRover.pdb
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.csprojResolveAssemblyReference.cache
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.Presentation.AdvancedSearch.resources
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.CreateAccountForm.resources
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.Presentation.EditMovieForm.resources
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.LoginForm.resources
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.ManageCollectionForm.resources
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.MovieForm.resources
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.SearchForm.resources
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.Presentation.VerifyDelete.resources
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.Properties.Resources.resources
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.WatchListForm.resources
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.csproj.GenerateResource.Cache
+C:\Users\Steph\git\RatingRover\RatingRover\obj\Debug\RatingRover.Presentation.PlotGraph.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\bin\Debug\Resources\users.xml
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\bin\Debug\Resources\movies.xml
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\bin\Debug\RatingRover.exe.config
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\bin\Debug\RatingRover.exe
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\bin\Debug\RatingRover.pdb
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.Presentation.AdvancedSearch.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.CreateAccountForm.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.Presentation.EditMovieForm.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.LoginForm.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.ManageCollectionForm.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.MovieForm.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.Presentation.PlotGraph.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.SearchForm.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.Presentation.VerifyDelete.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.Properties.Resources.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.WatchListForm.resources
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.exe
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.pdb
+C:\Users\Ryan\Documents\GitHub\RatingRover\RatingRover\obj\Debug\RatingRover.csprojResolveAssemblyReference.cache
